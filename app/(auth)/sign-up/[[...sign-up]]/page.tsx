@@ -4,7 +4,7 @@ import React from 'react';
 const SignUpPage = () => {
     return (
         <main className="flex justify-center items-center h-screen w-full">
-            <SignUp />
+            <SignUp forceRedirectUrl="/" />
         </main>
     );
 };
