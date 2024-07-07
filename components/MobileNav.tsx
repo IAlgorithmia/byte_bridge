@@ -59,7 +59,7 @@ const MobileNav = () => {
                                                 )}
                                             >
                                                 <Image
-                                                    src={link.imgUrl}
+                                                    src={link.imgURL}
                                                     alt={link.label}
                                                     height={20}
                                                     width={20}
